@@ -1,0 +1,22 @@
+body{
+    background: burlywood;
+}
+
+.heading{
+    width:84%;
+    font-size:25px;
+}
+
+.name_of_objects{
+    color:crimson;
+}
+
+#camera{
+    border:2px solid black;
+    width:350px;
+    height:350px;
+}
+
+#result_object_name,#result_object_accuracy{
+    color:cornflowerblue;
+}
